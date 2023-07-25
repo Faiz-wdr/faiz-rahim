@@ -11,12 +11,12 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <div className="footer-left">
-        &copy; <span className='faiz'>Faiz Rahim</span> • {new Date().getFullYear()}
+        &copy; <span className='faiz'>Faiz Rahim </span>&nbsp;• {new Date().getFullYear()}
       </div>
       <div className="footer-right">
         <nav className="footer-navigation">
-          <a href="https://www.notion.so/Faiz-s-Blog-b35325a941e74dc9bec5558652db278b">Blogs</a>
-          <a href="https://www.notion.so/Mohammed-Faiz-K-b2ddfc03a508464eb0f3751d0cf34c46">Portfolio</a>
+          <a href="https://pickled-brace-695.notion.site/Faiz-s-Blog-b35325a941e74dc9bec5558652db278b?pvs=4">Blogs</a>
+          <a href="https://pickled-brace-695.notion.site/Mohammed-Faiz-K-b2ddfc03a508464eb0f3751d0cf34c46?pvs=4">Portfolio</a>
         </nav>
         <button className="download-cv-button" onClick={handleDownloadCV}>Download CV</button>
       </div>
