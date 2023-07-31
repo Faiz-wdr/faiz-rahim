@@ -77,7 +77,7 @@
     .project-left,
     .project-right {
       margin: auto;
-      margin-left: 50px;
+      margin-left: 20px;
     }
     .project-left h2{
         margin-bottom: -130px;
@@ -96,14 +96,14 @@
     }
     .project-card-port,
     .project-card-land {
-      width: 75%;
+      width: 90%;
     }
 
     .project-image {
-        width: 90%;
+        width: 100%;
       }
 
       .project-description {
-        font-size: 75%;
+        font-size: 80%;
       }
   }

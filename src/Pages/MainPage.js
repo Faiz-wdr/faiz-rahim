@@ -6,7 +6,7 @@ import Footer from '../Components/Footer';
 
 function MainPage() {
   return (
-    <div>
+    <div className='main-body'>
       <HeroPage />
       <ProjectSection />
       <Footer />

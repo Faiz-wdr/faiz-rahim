@@ -94,7 +94,7 @@
       justify-content: center;
       align-items: center;
       text-align: right;
-      font-size: 15px;
+      font-size: 13px;
       width: max-content;
       margin: 0;
       margin-bottom: 30px;
@@ -104,7 +104,6 @@
         margin: auto;
     }
     .download-cv-button {
-        background-color: #000;
         color: white;
         border: none;
         display: block;
@@ -112,7 +111,9 @@
         margin-top: 20px;
         margin-bottom: 20px;
         width: max-content;
-        margin-left: px;
+        font-size: 13px;
+        padding: 10px;
+        padding-left: 13px;
     }
 
     .faiz{
