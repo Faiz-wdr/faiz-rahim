@@ -13,7 +13,7 @@ export const Experience = [
     },
     {
         id: 2,
-        date: "2016 - present",
+        date: "2020 - 2023",
         iconsSrc: <PiBroomBold />,
         title: "UI & Graphic Design",
         location: "Freelance",
