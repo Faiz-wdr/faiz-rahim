@@ -2,6 +2,7 @@
     height: 80vh;
     display: block;
     margin: auto;
+    background-color: #060606;
 }
 .vertical-timeline-custom-line::before {
     background: #212121;

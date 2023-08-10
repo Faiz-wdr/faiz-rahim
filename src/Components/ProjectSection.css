@@ -3,7 +3,7 @@
     justify-content: space-between;
     padding: 40px;
     height: 100vh;
-    background-color: #000;
+    background-color: #060606;
   }
   
   .project-left,
@@ -30,7 +30,7 @@
 
   .project-card-land {
     margin-top: 210px;
-    background-color: #000;
+    background-color: #060606;
     color: #fff;
     padding: 20px;
     margin-bottom: 20px;
@@ -39,7 +39,7 @@
     
   }
   .project-card-port {
-    background-color: #000;
+    background-color: #060606;
     color: #fff;
     padding: 20px;
     margin-bottom: 20px;
