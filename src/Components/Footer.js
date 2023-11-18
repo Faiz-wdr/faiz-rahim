@@ -15,7 +15,7 @@ const Footer = () => {
       </div>
       <div className="footer-right">
         <nav className="footer-navigation">
-          <a href="https://pickled-brace-695.notion.site/Faiz-s-Blog-b35325a941e74dc9bec5558652db278b?pvs=4">Blogs</a>
+          <a href="https://blog-faiz.notion.site/Faiz-s-Blog-b35325a941e74dc9bec5558652db278b?pvs=4">Blogs</a>
           <a href="https://bento.me/faizrahim">Portfolio</a>
         </nav>
         <button className="download-cv-button" onClick={handleDownloadCV}>Download CV</button>
