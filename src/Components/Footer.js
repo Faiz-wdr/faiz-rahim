@@ -20,9 +20,6 @@ const Footer = () => {
           <a href="https://blog-faiz.notion.site/blog-faiz/Faiz-s-Blog-b35325a941e74dc9bec5558652db278b">Blogs</a>
           <a href="https://bento.me/faizrahim">Portfolio</a>
           <div>
-     <div> 
-       <a href="#" onClick={()=>gaEventTracker('call')}>Hire Me</a>
-      </div>
       </div>
         </nav>
         
