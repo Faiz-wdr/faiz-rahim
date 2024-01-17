@@ -4,7 +4,7 @@ import useAnalyticsEventTracker from '../useAnalyticsEventTracker';
 const Footer = () => {
 
     const handleDownloadCV = () => {
-        const cvFilePath = 'https://drive.google.com/file/d/1llHpa7DxvzHTTF61Bf0dFopXfYVzk3Yh/view?usp=sharing';
+        const cvFilePath = 'https://drive.google.com/file/d/11294egDC0x_fRuxOkuwXyWmFuUZzpfnm/view?usp=drive_link';
         window.location.href = cvFilePath;
       };
 
